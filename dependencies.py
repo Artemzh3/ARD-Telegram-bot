@@ -35,6 +35,14 @@ def get_builder_markup_callback():
 
 
 list_not_to_builder_messages = [
-    "Hello", "hello", "Bye", "bye", "Thanks", "thanks",
-    "Goodbye", "goodbye", "Привет", "привет", "Пр", "пр",
+    "hello",
+    "bye",
+    "thanks",
+    "goodbye",
+    "привет",
+    "пр",
+    "приветик",
+    "пока",
+    "ладно давай",
+    "до завтра",
 ]
